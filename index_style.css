@@ -1,0 +1,36 @@
+body{
+    margin: 0 auto;
+    background-color: black;
+}
+#title_background{
+    font-size: 50px;
+    color:white;
+    letter-spacing: -.02em
+}
+#gogoS{
+    width: 130px;
+    height:40px;
+    color: white;
+    background-color: black;
+    border:3px orange double;
+}
+.center{
+    margin:0 auto;
+    width: 300px;
+}
+#gogoB{
+    width: 130px;
+    height:40px;
+    color: white;
+    background-color: black;
+    border:3px orange double;
+}
+#list{
+    margin:0 auto;
+    width: 500px;
+    color: white;
+}
+#textin{
+    width: 256px;
+    height: 165px;
+}
