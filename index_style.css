@@ -63,6 +63,8 @@ body{
     position: relative;
     right: 30px;
     outline: none;
+    background-color: none;
+    border: 5px solid #2de0ff;
 }
 .cobyr{
     color: white;
@@ -71,4 +73,5 @@ body{
 }
 #plsin{
     font-size: 50px;
+    color: white;
 }
