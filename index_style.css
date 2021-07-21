@@ -1,6 +1,22 @@
+@keyframes titleColorChange{
+    0%{background-color: #52d4ff;}
+    50%{background-color: deeppink;}
+    100%{background-color: #52d4ff;}
+}
 body{
     margin: 0 auto;
     background-color: black;
+}
+
+#title_colorA{
+    width: auto;
+    height: 600px;
+    background-color: #52d4ff;
+}
+.title_anime{
+    animation-name: titleColorChange;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
 }
 #title_background{
     font-size: 50px;
@@ -12,28 +28,47 @@ body{
     height:40px;
     color: white;
     background-color: black;
-    border:3px orange double;
+    border:3px solid #52d4ff;
 }
 .center{
     margin:0 auto;
-    width: 300px;
+    width: 500px;
+}
+.center2{
+    margin:0 auto;
+    width: 500px;
+    align-items: center;
+    position: relative;
+    top: 25px;
+    left: 95px;
 }
 #gogoB{
     width: 130px;
     height:40px;
     color: white;
     background-color: black;
-    border:3px orange double;
+    border:3px solid deeppink;
 }
 #list{
     margin:0 auto;
     width: 500px;
     color: white;
+    position: relative;
+    top: 50px;
 }
 #textin{
-    width: 256px;
-    height: 165px;
+    width: 500px;
+    height: 160px;
+    border-radius: 15px;
+    position: relative;
+    right: 30px;
+    outline: none;
 }
 .cobyr{
     color: white;
+    position: relative;
+    top: 50px;
+}
+#plsin{
+    font-size: 50px;
 }
