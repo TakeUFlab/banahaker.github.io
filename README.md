@@ -9,9 +9,17 @@ HTML5,CSS3,JavaScript5<br/>
 </br>
 開發者: LAZP 葉X辰<br/><br/>
 UPDATE NEWS:<br/>
+CBS v3.0.1<br/>
+BIG UPDATE: v3.0.0<br/>
+Update detail:<br/>
+1.debug UI design<br/>
+2.optimization UX<br/>
+---2021/07/21<br/>
+
 CBS v3.0.0<br/>
 BIG UPDATE: v3.0.0<br/>
 Update detail:<br/>
-1:add new css UI<br/>
+1.add new css UI<br/>
 2.add new function: cross change<br/>
 3.make more convenient<br/>
+---2021/07/21<br/>
