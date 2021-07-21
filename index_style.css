@@ -32,7 +32,7 @@ body{
 }
 .center{
     margin:0 auto;
-    width: 500px;
+    width: 450px;
 }
 .center2{
     margin:0 auto;
@@ -40,7 +40,7 @@ body{
     align-items: center;
     position: relative;
     top: 25px;
-    left: 95px;
+    left: 125px;
 }
 #gogoB{
     width: 130px;
@@ -61,7 +61,7 @@ body{
     height: 160px;
     border-radius: 15px;
     position: relative;
-    right: 30px;
+    right: 25px;
     outline: none;
     background-color: none;
     border: 5px solid #2de0ff;
