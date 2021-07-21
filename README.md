@@ -1,5 +1,5 @@
 # banahaker.github.io
-CBSweb v2.0.1<br/>
+CBSweb v3.0.0 <br/>
 大小寫轉換器 V2.0.1<br/>
 使用語言:
 HTML5,CSS3,JavaScript5<br/>
@@ -7,4 +7,11 @@ HTML5,CSS3,JavaScript5<br/>
 網站網址:
 <a href = https://banahaker.github.io/index.html>banahaker.github.io</a>
 </br>
-開發者: LAZP 葉X辰
+開發者: LAZP 葉X辰<br/><br/>
+UPDATE NEWS:<br/>
+CBS v3.0.0<br/>
+BIG UPDATE: v3.0.0<br/>
+Update detail:<br/>
+1:add new css UI<br/>
+2.add new function: cross change<br/>
+3.make more convenient<br/>
